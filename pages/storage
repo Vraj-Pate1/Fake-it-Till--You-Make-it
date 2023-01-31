@@ -83,3 +83,32 @@
     </footer>
   </div>
 </html>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <div class="container">
+        <h1>Welcome to Fake it Till You Make it</h1>
+        <p>We are a US based luxury home, vehicle, and clothing rental company. Our goal is to provide a millionaire expericnce 
+          to middle class individuals who dream of making it big one day. Customers can Fake it, Till They Make it!
+        </p>
+        <a href="About_us.html" class="btn btn-primary">Learn More</a>  
+      </div>
+    <div class="col-sm">
+      <div class="container">
+        <h1>What We Offer</h1>
+        <p>We offer rental homes all around the USA.
+        </p>
+        <a href="catalog.html" class="btn btn-primary">Explore</a>
+    </div>
+    <div class="col-sm">
+      <h1>Testimonials</h1>
+      <p>Questions or concerns? Fake it Till You Make it has 24/7
+        customer support services. Call us at (731)-273-0019 or email us using our email form.
+      </p>
+      <a href="contact.html" class="btn btn-primary">Contact Us</a>        
+  </div>
+</div>
