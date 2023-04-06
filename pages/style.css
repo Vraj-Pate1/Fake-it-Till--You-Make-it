@@ -1,7 +1,16 @@
 
 body {
-  background-color: #6e7991; /* set the background color to light gray */
+  background-color: rgb(22, 22, 22); /* set the background color to light gray #6e7991 */
 }
 .card {
-  background-color: #919cb1;
+  background-color: rgb(83, 81, 81)
+}
+.navbar {
+  background-color: #ffbf00; /* Replace #333 with your preferred color code */
+  color: rgb(234, 12, 12); /* Replace #fff with your preferred text color */
+}
+
+/* Optional: Change the color of links in the navbar */
+.nav-link {
+  color: rgb(255, 255, 255); /* Replace #fff with your preferred link color */
 }
