@@ -1,16 +1,24 @@
-
 body {
-  background-color: rgb(22, 22, 22); /* set the background color to light gray #6e7991 */
-}
+  background-color: black;
+  /*background: rgb(255,193,0);
+  background: linear-gradient(0deg, rgba(255,193,0,1) 22%, rgba(0,0,0,1) 64%);
+background-repeat: no-repeat;*/
+} 
 .card {
   background-color: rgb(83, 81, 81)
 }
 .navbar {
-  background-color: #ffbf00; /* Replace #333 with your preferred color code */
-  color: rgb(234, 12, 12); /* Replace #fff with your preferred text color */
-}
-
-/* Optional: Change the color of links in the navbar */
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 16%, rgba(255,193,0,1) 45%);} 
+/* link color. it does not change active link color.*/
 .nav-link {
-  color: rgb(255, 255, 255); /* Replace #fff with your preferred link color */
+  color: rgb(255, 255, 255); 
+}
+/* Style the active link in the navbar */
+.navbar a.active {
+  color: #fff; /* Replace #fff with your preferred active link color */
+  text-decoration: underline;
+}
+.about_txt{
+  color:white
 }
