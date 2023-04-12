@@ -33,9 +33,9 @@ background-repeat: no-repeat;*/
   background: linear-gradient(90deg, rgba(0,0,0,1) 16%, rgba(255,193,0,1) 45%);
 } 
 
-.modal-footer{
-
-} 
+.modal-footer {
+  background: rgb(0,0,0);
+}
 
 .modal-title{
   color:white
@@ -43,4 +43,34 @@ background-repeat: no-repeat;*/
 .modal-body{
   color:rgb(255, 255, 255)
 
+}
+.modal-body {
+  background-color: rgb(83, 81, 81)
+}
+.person {
+  display: flex;
+  max-width: 80em;
+  margin: 3em auto;
+  align-items: stretch;
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 38%, rgba(255,193,0,1) 83%);
+color: white;
+}
+
+.person-header {
+ padding: 2rem; 
+}
+
+.person-bild {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.person-introduction {
+  padding-left: 2rem;
+  background: rgb(83, 81, 81);
+  color: white;
+  display: flex;
+  align-items: center;
 }
