@@ -1,8 +1,6 @@
 body {
   background-color: black;
-  /*background: rgb(255,193,0);
-  background: linear-gradient(0deg, rgba(255,193,0,1) 22%, rgba(0,0,0,1) 64%);
-background-repeat: no-repeat;*/
+background-repeat: no-repeat;
 } 
  .card {
   background-color: rgb(83, 81, 81)
