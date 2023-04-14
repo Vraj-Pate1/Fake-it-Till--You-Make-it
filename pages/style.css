@@ -72,12 +72,17 @@ color: white;
   display: flex;
   align-items: center;
 }
-.accordion {
+/*.accordion {
+
   background-color:rgb(83, 81, 81);
 }
 .accordion-item {
   background-color: rgb(83, 81, 81);
 }
-.accordion-header[
+.accordion-header {
+  background-color: #ff0000;
+}
+.accordion-flush{
   background-color: rgb(83, 81, 81);
-]
+}
+*/
